@@ -36,6 +36,10 @@ class Solution {
         }
     }
 
+    public void x(){
+        
+    }
+
     public List<Integer> postorderTraversal(TreeNode root) {
         f(root);
         return list;
