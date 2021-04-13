@@ -2,6 +2,7 @@ package Java.c0416;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 
 class TreeNode {
     int val;
@@ -44,7 +45,7 @@ class Solution {
 public class b {
     public static void main(String[] args) {
         Solution solution = new Solution();
-
+        Scanner scanner = new Scanner(System.in);
     }
 
 }
