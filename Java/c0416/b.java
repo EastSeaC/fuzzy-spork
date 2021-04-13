@@ -51,6 +51,8 @@ public class b {
     public static void main(String[] args) {
         Solution solution = new Solution();
         Scanner scanner = new Scanner(System.in);
+        System.out.println("iojh");
+        
     }
 
 }
