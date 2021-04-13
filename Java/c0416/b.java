@@ -37,6 +37,7 @@ class Solution {
     }
 
     public void x(){
+        System.out.println("asd");
         
     }
 
